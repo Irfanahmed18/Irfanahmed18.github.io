@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+.vertical-navbar {
+    position: relative;
+    padding: 10px;
+    max-height: 100vh;
+}
+
+.vertical-navbar > h1 {
+    font-weight: bold;
+}
+
+.vertical-navbar > a {
+    padding: 10px 0 10px 0;
+    display: block;
+    font-weight: bold;
+}
+
+.social-media{
+    position: absolute;
+    bottom: 0;
+}
+
+.headline {
+    margin-bottom: 20px;
+}
